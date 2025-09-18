@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I’m Daniel, a software developer. I like computers. I try to make them like me back. I like humans. I believe that education is the key to building a better, stable, and richer world.
+
+- 🎙️ The JS-Craft Podcast
+- 📘 [LangGraph : Managing AI Agents Systems using LangGraph.js](https://www.amazon.com/dp/B0DM2GQ362/)
+- 📙 [LangChain for JavaScript Developers - a beginner's guide](https://www.amazon.com/dp/B0D76DS6QJ/)
+- 🌍 [www.js-craft.io](https://www.js-craft.io/)
+
 <!--
 **daniel-jscraft/daniel-jscraft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
